@@ -1,6 +1,4 @@
 ## Hi there, I'm Anja! 👋
-[![Github](https://img.shields.io/github/followers/theRoughCode?label=Follow&style=social)](https://github.com/theRoughCode)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.theRoughCode)
 
 ## 👧 About Me
 - 🎓 I'm a Software Engineer student from the University of Belgrade
