@@ -25,6 +25,15 @@
 
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
+## 📖 My Blog Posts
+<a target="_blank" href="https://medium.com/@anja119">
+
+## 🏆 My Github stats
+
+<img alt="Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=anjaa7&show_icons=true&theme=algolia" />
+<img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjaa7&theme=algolia" />
+
+
 <br />
 <br />
 
