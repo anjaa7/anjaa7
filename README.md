@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/theRoughCode?label=Follow&style=social)](https://github.com/theRoughCode)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.theRoughCode)
 
-## 👧👩‍💻 About Me
+## 👧 About Me
 - 🎓 I'm a Software Engineer student from the University of Belgrade
 - ⚛️ I have a deep interest in machine learning, autonomous driving and software engineering
 - ❤️ I love working on software side projects
