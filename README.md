@@ -11,7 +11,6 @@
 ## 🌐 Connect with me
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -31,15 +30,7 @@
 <br />
 <br />
 
-## 📖 My Blog Posts
-<a target="_blank" href="https://raph-koh.medium.com/staring-into-the-soul-of-a-quantum-program-694bcfbf92ac"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0" alt="Staring into the soul of a Quantum program">
 
-## 🏆 My Github stats
-
-<img alt="Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=theRoughCode&show_icons=true&theme=algolia" />
-<img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRoughCode&theme=algolia" />
-
-[website]: https://www.raphaelkoh.me
-[youtube]: https://youtube.com/ThatSingaporeanGuy
-[instagram]: https://www.instagram.com/theraphkoh
-[linkedin]: https://linkedin.com/in/raphael-koh
+[website]: https://anjaa7.github.io/
+[instagram]: https://www.instagram.com/anja.vujacic/
+[linkedin]: https://www.linkedin.com/in/anja-vujacic-a2b7b01a7/
