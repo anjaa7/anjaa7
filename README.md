@@ -31,7 +31,7 @@
 ## 🏆 My Github stats
 
 <img alt="Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=anjaa7&show_icons=true&theme=dracula" />
-<img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjaa7&theme=algolia" />
+<img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjaa7&theme=dracula" />
 
 
 <br />
