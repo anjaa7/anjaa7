@@ -6,7 +6,6 @@
 - ❤️ I love working on software side projects
 -  I'm currently working on autonomous car for Bosch Future Mobility Challenge 2023!
 
-
 <br />
 
 ## 🛠️ Languages and Tools
@@ -33,7 +32,3 @@
 <br />
 <br />
 
-
-[website]: https://anjaa7.github.io/
-[instagram]: https://www.instagram.com/anja.vujacic/
-[linkedin]: https://www.linkedin.com/in/anja-vujacic-a2b7b01a7/
