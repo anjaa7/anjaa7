@@ -4,7 +4,6 @@
 - 🎓 I'm a Software Engineer student from the University of Belgrade
 - ⚛️ I have a deep interest in machine learning, autonomous driving and software engineering
 - ❤️ I love working on software side projects
--  I'm currently working on autonomous car for Bosch Future Mobility Challenge 2023!
 <br />
 
 ##  🛠️ Languages and Tools
